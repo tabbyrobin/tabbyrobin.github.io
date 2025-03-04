@@ -1,0 +1,22 @@
+# Setup
+title:               Scott Tankard
+tagline:             'Python · NLP · ML · QA'
+description:         "Scott Tankard's professional portfolio  ·  M.S. NLP and B.S. Linguistics  <br/><br/>Python Developer · NLP Engineer · Jr. ML Engineer  · QA Tester · Computational Linguist"
+url:                 https://tabbyrobin.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Scott Tankard
+  url:               ''
+  email:             ''
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
