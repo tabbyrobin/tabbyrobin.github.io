@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+<!-- `layout: default` to exclude this file from jekyll pages list, and thus
+from the sidebar as well. -->
+
 # Website contents
 
 The custom content of the website itself is separately copyrighted, all rights
